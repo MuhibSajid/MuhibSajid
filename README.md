@@ -63,7 +63,6 @@ I am a web developer with a background in B2B lead generation, data research, an
 
 <img height="180" src="https://github-readme-stats.shion.dev/api?username=MuhibSajid&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MuhibSajid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=MuhibSajid&theme=dark&hide_border=false" alt="GitHub streak" />
 
