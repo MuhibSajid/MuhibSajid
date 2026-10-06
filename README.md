@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:025f7a,100:4fc3d7&height=200&section=header&text=Muhibbullah%20Shajid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18" alt="header" />
+<img src="./Banner.png" alt="Muhibbullah Shajid - Full Stack Web Developer" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=4FC3D7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhibbullah;Building+real-world+projects+with+the+MERN+stack;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Data+%26+Lead+Generation+background" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=4FC3D7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I%27m+Muhibbullah;Building+real-world+projects+with+the+MERN+stack;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Data+%26+Lead+Generation+background" alt="Typing SVG" />
 </a>
 
 <br/>
